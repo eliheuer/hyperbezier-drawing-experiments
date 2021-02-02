@@ -1,2 +1,2 @@
-# hyperbezier-drawing-experiments
-Various drawing experiments made using the hyperbezier to in Runebender
+# Hyperbezier Drawing Experiments
+Various drawing experiments made using the hyperbezier tool in Runebender.
